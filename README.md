@@ -8,8 +8,8 @@ The purpose of this setup was to study basic imaging performance and understand 
 
 ## Lens Setup
 
-
-
+![Lens Setup](description.png)
+![Lens Setup2](ray_diagram.png)
 
 ---
 
@@ -40,7 +40,7 @@ The three wavelengths allowed observation of chromatic behavior and comparison o
 
 As observed from the spot diagram, the rays corresponding to different wavelengths focus near the image plane with slight chromatic spread. The spot distribution provides insight into aberrations and focusing performance of the singlet lens system.
 
-![Spot Diagram](images/spot_diagram.png)
+![Spot Diagram](spot_diagram.png)
 
 ---
 
@@ -48,7 +48,7 @@ As observed from the spot diagram, the rays corresponding to different wavelengt
 
 The FFT PSF analysis was used to study the spatial distribution of light intensity around the focal point and evaluate diffraction behavior of the optical system.
 
-![FFT PSF](images/fft_psf.png)
+![FFT PSF](spot_angles.png)
 
 ---
 
@@ -56,7 +56,7 @@ The FFT PSF analysis was used to study the spatial distribution of light intensi
 
 The FFT MTF analysis was performed to evaluate the spatial frequency response and imaging capability of the lens system.
 
-![FFT MTF](images/fft_mtf.png)
+![FFT MTF](mtf.png)
 
 ---
 
