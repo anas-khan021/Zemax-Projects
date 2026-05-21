@@ -72,6 +72,10 @@ Through this project, I learned:
 - Introduction to PSF and MTF analysis
 
 ---
+## Next goal
+- To learn to make the best use of MTF
+- Make multiple lens system
+- Learn to optimize the function
 
 ## Software Used
 
